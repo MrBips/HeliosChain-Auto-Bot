@@ -1,0 +1,8 @@
+{
+  "bridgeRepetitions": 2,
+  "minHlsBridge": 0.01,
+  "maxHlsBridge": 0.03,
+  "stakeRepetitions": 2,
+  "minHlsStake": 0.01,
+  "maxHlsStake": 0.03
+}
